@@ -165,7 +165,7 @@
                     </button>
                   </div>
                 </div>
-                <span class="product-price fs-3">$99</span>
+                <span class="product-price fs-3">$95</span>
                 <div class="product-details">
                   <p class="fs-7">Buy good shoes and a good mattress, because when you're not in one you're in the
                     other. With four pairs of shoes, I can travel the world.</p>
